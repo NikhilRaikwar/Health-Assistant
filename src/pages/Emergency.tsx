@@ -36,7 +36,7 @@ export function Emergency() {
     {
       icon: <Ambulance className="w-6 h-6 text-red-600" />,
       title: "Ambulance",
-      contact: "102",
+      contact: "102 & 108",
       description: "24/7 Ambulance services for medical emergencies"
     },
     {
